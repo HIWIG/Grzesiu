@@ -3,6 +3,10 @@ body { font-family: 'Saira Semi Condensed', sans-serif;
 	margin: 0;
 	padding: 0;
 }
+a {
+	color: inherit;
+	text-decoration: inherit;
+}
 .container {
 	overflow: hidden;
  	display: flex;
